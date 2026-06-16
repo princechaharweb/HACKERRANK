@@ -1,0 +1,26 @@
+// COMPARE THE TRIPLET   ##################################################################
+// #include <iostream>
+// using namespace std;
+// int main (){
+//     int i,n;
+//     int flaga = 0 ;
+//     int flagb = 0 ;
+//     int a[3];
+//     int b[3];
+//    for(i=0;i<3;i++){
+//     cin>>a[i];
+//    }
+//    for(i=0;i<3;i++){
+//      cin>>b[i];
+//    }
+//    for(i=0;i<3;i++){
+//     if(a[i]>b[i]){
+//         flaga++;
+//     }
+//     if(a[i]<b[i]){
+//         flagb++;
+//     }
+//    }
+
+//    cout << flaga << " " << flagb;
+// }
